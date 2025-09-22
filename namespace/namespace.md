@@ -59,3 +59,9 @@ This deletes the entire namespace **nginx**, along with all the resources create
 4. Verified pod creation  
 5. Deleted the pod  
 6. Deleted the namespace  
+
+
+
+
+
+kubectl get all -n nginx
